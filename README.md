@@ -1,8 +1,8 @@
-**INTRODUCTION**
+# **INTRODUCTION**
 
 Welcome to the comprehensive compilation for CSEL 302, focusing on essential topics such as Linear Regression, Logistic Regression, Data Analysis, and Statistics. This collection of activities and projects aims to provide a foundation in these key areas, enhancing proficiency and understanding of fundamental concepts in data science and Machine Learning.
 
-**TABLE OF CONTENT**
+# **TABLE OF CONTENT**
 
 1. [Data Analysis](https://github.com/PikuFuka/CSEL-302-comp/blob/main/README.md#data-analysis)
 2. [Linear Regression](https://github.com/PikuFuka/CSEL-302-comp/blob/main/README.md#linear-regression)
