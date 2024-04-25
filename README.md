@@ -32,7 +32,7 @@ Activity:
 
 # Logistic Regression
 **Logistic Regression** is a statistical technique used for predicting the outcome of a categorical dependent variable based on one or more predictor variables. It models the probability of a binary event occurring, such as success/failure, yes/no, or pass/fail scenarios.
-
+ 
 Activity:
 
 1. [Exercise 5 Bank Customer Data](https://github.com/PikuFuka/CSEL-302-comp/blob/main/2B_SOTOMAYOR_EXER5.ipynb)
