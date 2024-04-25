@@ -6,9 +6,10 @@ Welcome to the comprehensive compilation for CSEL 302, focusing on essential top
 
 **TABLE OF CONTENT**
 
-[Analysis Report Detective](https://github.com/PikuFuka/CSEL-302-comp/blob/main/The_adventure_of_Detetivesn't.ipynb)
+1. [Analysis Report Detective](https://github.com/PikuFuka/CSEL-302-comp/blob/main/The_adventure_of_Detetivesn't.ipynb)
+2. [HardwareStore Assessment](https://github.com/PikuFuka/CSEL-302-comp/blob/main/Sotomayor_Rolan_assessment.ipynb)
+3. 
 
-[HardwareStore Assessment](https://github.com/PikuFuka/CSEL-302-comp/blob/main/Sotomayor_Rolan_assessment.ipynb)
 
 [Admin](https://github.com/PikuFuka/CSEL-302-comp/blob/main/The_adventure_of_Detetivesn't.ipynb)
 
