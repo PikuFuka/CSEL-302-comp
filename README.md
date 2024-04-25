@@ -15,19 +15,6 @@ Welcome to the comprehensive compilation for CSEL 302, focusing on essential top
 7. [Exercise 7 Netflix Userbase](https://github.com/PikuFuka/CSEL-302-comp/blob/main/2B_SOTOMAYOR_EXER7.ipynb)
 8. [Midterm Diabetics](https://github.com/PikuFuka/CSEL-302-comp/blob/main/2B_SOTOMAYOR_MIDTERM.ipynb)
 
+9. [hotdog](#ETOHOTDOG)
 
-
-
-To create anchor links that jump down to different sections of a README (as in an interactive table of contents), first create a heading:
-#Real Cool Heading
-
-The anchor link for that heading is the lowercase heading name with dashes where there are spaces. You can always get the anchor name by visiting the README on Github.com and clicking on the anchor that appears when you hover to the left of the heading. Copy everything starting at the #:
-#real-cool-heading
-
-Wherever you want to link to your Real Cool Heading section, put your desired text in brackets, followed by the anchor link in parentheses:
-[Go to Real Cool Heading section](#real-cool-heading)
-
-See! Easy: Go to Real Cool Heading section
-
-#Real Cool Heading
-This is a real cool heading with some real cool content.
+# **ETOHATODOG**
