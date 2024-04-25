@@ -14,4 +14,4 @@ Welcome to the comprehensive compilation for CSEL 302, focusing on essential top
 8. [Midterm Diabetics](https://github.com/PikuFuka/CSEL-302-comp/blob/main/2B_SOTOMAYOR_MIDTERM.ipynb)
 9. [Linear Regression](#linear)
 
-# Linear Regression ##### linear
+# Linear Regression #### linear
