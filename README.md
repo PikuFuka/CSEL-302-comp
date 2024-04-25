@@ -10,6 +10,7 @@ Welcome to the comprehensive compilation for CSEL 302, focusing on essential top
 4. [Midterm](https://github.com/PikuFuka/CSEL-302-comp/blob/main/README.md#midterm)
 
 # **Data Analysis**
+
 **Data-analysis** - is the process of inspecting, cleansing, transforming, and modeling data with the goal of discovering useful information, informing conclusions, and supporting decision-making. 
 
 **Exploratory Data Analysis (EDA)** - a critical process in data analysis, and it serves as the initial step before diving into more indepth analysis or modeling.
@@ -21,6 +22,7 @@ Activity:
 
 
 # **Linear Regression**
+
 **Linear Regression** - A statistical method used in the field of data analysis and predictive modeling. It's particularly useful in understanding and modeling relationships between a dependent variable (target) and one or more independent variables (features or predictors).
 
 Activity:
@@ -31,6 +33,7 @@ Activity:
 
 
 # **Logistic Regression**
+
 **Logistic Regression** is a statistical technique used for predicting the outcome of a categorical dependent variable based on one or more predictor variables. It models the probability of a binary event occurring, such as success/failure, yes/no, or pass/fail scenarios.
  
 Activity:
@@ -40,4 +43,5 @@ Activity:
 3. [Exercise 7 Netflix Userbase](https://github.com/PikuFuka/CSEL-302-comp/blob/main/2B_SOTOMAYOR_EXER7.ipynb)
 
 # **Midterm**
+
 1. [Midterm Diabetics](https://github.com/PikuFuka/CSEL-302-comp/blob/main/2B_SOTOMAYOR_MIDTERM.ipynb)
