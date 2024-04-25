@@ -1,4 +1,4 @@
-**ACTIVITY AND PROJECT COMMPILATION**
+![image](https://github.com/PikuFuka/CSEL-302-comp/assets/161422800/ca40703f-5c50-443f-995b-14c1eae5eee6)**ACTIVITY AND PROJECT COMMPILATION**
 
 **INTRODUCTION**
 
@@ -14,3 +14,7 @@ Welcome to the comprehensive compilation for CSEL 302, focusing on essential top
 6. [Exercise 6 Online Foods](https://github.com/PikuFuka/CSEL-302-comp/blob/main/2B_SOTOMAYOR_EXER6.ipynb)
 7. [Exercise 7 Netflix Userbase](https://github.com/PikuFuka/CSEL-302-comp/blob/main/2B_SOTOMAYOR_EXER7.ipynb)
 8. [Midterm Diabetics](https://github.com/PikuFuka/CSEL-302-comp/blob/main/2B_SOTOMAYOR_MIDTERM.ipynb)
+
+[add](#hello-add-add)
+
+#hello-add-add
