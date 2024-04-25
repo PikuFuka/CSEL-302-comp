@@ -8,16 +8,11 @@ Welcome to the comprehensive compilation for CSEL 302, focusing on essential top
 
 1. [Analysis Report Detective](https://github.com/PikuFuka/CSEL-302-comp/blob/main/The_adventure_of_Detetivesn't.ipynb)
 2. [HardwareStore Assessment](https://github.com/PikuFuka/CSEL-302-comp/blob/main/Sotomayor_Rolan_assessment.ipynb)
-3. 
-
-
-[Admin](https://github.com/PikuFuka/CSEL-302-comp/blob/main/The_adventure_of_Detetivesn't.ipynb)
-
-[Admin](https://github.com/PikuFuka/CSEL-302-comp/blob/main/The_adventure_of_Detetivesn't.ipynb)
-
-[Admin](https://github.com/PikuFuka/CSEL-302-comp/blob/main/The_adventure_of_Detetivesn't.ipynb)
-
-[Admin](https://github.com/PikuFuka/CSEL-302-comp/blob/main/The_adventure_of_Detetivesn't.ipynb)
-
+3. [Activity Students Grade](https://github.com/PikuFuka/CSEL-302-comp/blob/main/ActivityStudentsGrade.ipynb)
+4. [Exercise 4 Students Grade](https://github.com/PikuFuka/CSEL-302-comp/blob/main/2B_SOTOMAYOR_EXE4.ipynb)
+5. [Exercise 5 Bank Customer Data](https://github.com/PikuFuka/CSEL-302-comp/blob/main/2B_SOTOMAYOR_EXER5.ipynb)
+6. [Exercise 6 Online Foods](https://github.com/PikuFuka/CSEL-302-comp/blob/main/2B_SOTOMAYOR_EXER6.ipynb)
+7. [Exercise 7 Netflix Userbase](https://github.com/PikuFuka/CSEL-302-comp/blob/main/2B_SOTOMAYOR_EXER7.ipynb)
+8. [Midterm Diabetics](https://github.com/PikuFuka/CSEL-302-comp/blob/main/2B_SOTOMAYOR_MIDTERM.ipynb)
 
 
