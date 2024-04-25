@@ -1,5 +1,3 @@
-![image](https://github.com/PikuFuka/CSEL-302-comp/assets/161422800/ca40703f-5c50-443f-995b-14c1eae5eee6)**ACTIVITY AND PROJECT COMMPILATION**
-
 **INTRODUCTION**
 
 Welcome to the comprehensive compilation for CSEL 302, focusing on essential topics such as Linear Regression, Logistic Regression, Data Analysis, and Statistics. This collection of activities and projects aims to provide a foundation in these key areas, enhancing proficiency and understanding of fundamental concepts in data science and Machine Learning.
@@ -14,7 +12,7 @@ Welcome to the comprehensive compilation for CSEL 302, focusing on essential top
 6. [Exercise 6 Online Foods](https://github.com/PikuFuka/CSEL-302-comp/blob/main/2B_SOTOMAYOR_EXER6.ipynb)
 7. [Exercise 7 Netflix Userbase](https://github.com/PikuFuka/CSEL-302-comp/blob/main/2B_SOTOMAYOR_EXER7.ipynb)
 8. [Midterm Diabetics](https://github.com/PikuFuka/CSEL-302-comp/blob/main/2B_SOTOMAYOR_MIDTERM.ipynb)
+9. [Linear Regression](Linear-regression)
 
-[add](#hello-add-add)
 
-#hello-add-add
+# Linear Regression
