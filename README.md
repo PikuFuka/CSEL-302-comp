@@ -14,7 +14,3 @@ Welcome to the comprehensive compilation for CSEL 302, focusing on essential top
 6. [Exercise 6 Online Foods](https://github.com/PikuFuka/CSEL-302-comp/blob/main/2B_SOTOMAYOR_EXER6.ipynb)
 7. [Exercise 7 Netflix Userbase](https://github.com/PikuFuka/CSEL-302-comp/blob/main/2B_SOTOMAYOR_EXER7.ipynb)
 8. [Midterm Diabetics](https://github.com/PikuFuka/CSEL-302-comp/blob/main/2B_SOTOMAYOR_MIDTERM.ipynb)
-
-9. [hotdog](#ETOHOTDOG)
-
-# **ETOHATODOG**
