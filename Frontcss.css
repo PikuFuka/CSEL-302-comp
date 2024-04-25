@@ -1,0 +1,33 @@
+.cs2b {
+    color: black(39, 100, 105, 1.0);
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    text-align: center;
+}   
+
+#tb1 tr td {
+    font-family: Arial bold;
+    text-align: center;
+    border: 2px solid black;
+    padding: 8px;
+}
+
+#tb1 {
+    margin-left: 100px;
+    border-collapse: collapse;
+}
+
+#lunes {
+    background-color: aqua;
+}
+
+#martes {
+    background-color: cadetblue;
+}
+
+#jueves {
+    background-color: brown;
+}
+
+#online {
+    background-color: yellow;
+}
