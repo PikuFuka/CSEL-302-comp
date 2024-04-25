@@ -5,9 +5,9 @@ Welcome to the comprehensive compilation for CSEL 302, focusing on essential top
 **TABLE OF CONTENT**
 
 1. [Data Analysis](https://github.com/PikuFuka/CSEL-302-comp/blob/main/README.md#data-analysis)
-2. [Linear Regression](https://github.com/PikuFuka/CSEL-302-comp/edit/main/README.md#linear-regression)
-3. [Logisctic Regression](https://github.com/PikuFuka/CSEL-302-comp/edit/main/README.md#logistic-regression)
-4. [Midterm](https://github.com/PikuFuka/CSEL-302-comp/edit/main/README.md#midterm)
+2. [Linear Regression](https://github.com/PikuFuka/CSEL-302-comp/blob/main/README.md#linear-regression)
+3. [Logisctic Regression](https://github.com/PikuFuka/CSEL-302-comp/blob/main/README.md#logistic-regression)
+4. [Midterm](https://github.com/PikuFuka/CSEL-302-comp/blob/main/README.md#midterm)
 
 # Data Analysis
 **Data-analysis** - is the process of inspecting, cleansing, transforming, and modeling data with the goal of discovering useful information, informing conclusions, and supporting decision-making. 
