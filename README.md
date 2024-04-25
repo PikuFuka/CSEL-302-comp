@@ -1,2 +1,1 @@
-# CSEL-302-comp
-Compilation for the subject CSEL 302
+[Admin](The_adventure_of_Detetivesn't)
